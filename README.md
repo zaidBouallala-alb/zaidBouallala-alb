@@ -6,9 +6,12 @@
 <h1>Hi 👋, I'm Zaid Bouallala</h1>
 <h3>Full Stack Web Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zaidbouallala&style=flat&color=orange&label=PROFILE+VIEWS)
-[![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab)](https://gitlab.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=zaidbouallala&style=flat&color=blueviolet&label=PROFILE+VIEWS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/zaidbouallala-alb)
+[![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat&logo=gitlab)](https://gitlab.com/YOUR_GITLAB)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://www.linkedin.com/in/zaid-bouallala-60513a338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
 
@@ -23,6 +26,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=databricks&logoColor=white)
@@ -35,13 +39,11 @@
 ## 🧠 Competence (Organized)
 
 ```js
-// About Me - Tech Stack
-
 class AboutMe {
   constructor() {
     this.skills = {
       Frontend: ["HTML", "CSS", "JavaScript", "React", "Redux", "Redux Toolkit"],
-      Backend: ["Laravel", "Python"],
+      Backend: ["Laravel", "PHP", "Python"],
       Database: ["MySQL", "SQL", "MongoDB"],
       VersionControl: ["Git", "GitLab"],
       Other: ["REST APIs", "Auth Systems", "Deployment"]
