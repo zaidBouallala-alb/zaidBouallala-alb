@@ -53,7 +53,7 @@
 />
 
 <img
-  src="https://streak-stats.demolab.com/?user=zaidBouallala-alb&theme=github-dark&hide_border=true"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=zaidBouallala-alb&theme=github-dark&hide_border=true"
   width="49%"
 />
 
