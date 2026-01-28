@@ -41,7 +41,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streakstats.herokuapp.com/?username=zaidBouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=zaidbouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
 
 <br><br>
 
