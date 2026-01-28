@@ -41,7 +41,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readmestreakstats.herokuapp.com/?user=zaidBouallalaalb&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readmestreakstats.herokuapp.com/?user=zaidBouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
 
 <br><br>
 
@@ -49,7 +49,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala-alb&theme=tokyo-night" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala-alb&show_icons=true&theme=tokyo-night" width="95%" />
 
 </div>
 
