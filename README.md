@@ -41,11 +41,11 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidBouallala-alb&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readmestreakstats.herokuapp.com/?user=zaidBouallalaalb&show_icons=true&theme=tokyonight" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidBouallala-alb&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidBouallala-alb&show_icons=true&layout=compact&theme=tokyonight" width="48%" />
 
 <br><br>
 
