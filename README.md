@@ -48,9 +48,10 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=github_dark&hide_border=true"
-  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=github_dark"
+  alt="GitHub Stats"
 />
+
 
 <img
   src="https://github-readme-streak-stats-eight.vercel.app/?user=zaidBouallala-alb&theme=github-dark&hide_border=true"
