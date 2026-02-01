@@ -45,27 +45,24 @@
 
 ## 📊 GitHub Analytics
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala-alb&theme=github_dark)
+
+
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=default"
-  alt="GitHub Stats"
-/>
-
-
-<img
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=zaidBouallala-alb&theme=github-dark&hide_border=true"
-  width="49%"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidBouallala-alb&layout=compact&theme=github_dark&hide_border=true"
-  width="40%"
-/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidBouallala-alb&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala-alb&theme=github_dark&utcOffset=1)
 
 </div>
+
+---
+
+## 🔥 Contribution Activity
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala-alb&theme=github-dark"
+/>
 
 ---
 
