@@ -48,7 +48,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=github_dark"
+  src="https://github-readme-stats.vercel.app/api?username=zaidBouallala-alb&show_icons=true&theme=default"
   alt="GitHub Stats"
 />
 
