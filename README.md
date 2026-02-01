@@ -42,20 +42,34 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
-
+<!-- Full profile overview -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala-alb&theme=github_dark)
+
+<!-- Stats + Language insight -->
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidBouallala-alb&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidBouallala-alb&theme=github_dark)
+
+</div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution & Productivity
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala-alb&theme=github_dark&utcOffset=1)
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala-alb&theme=github-dark&hide_border=true"
   width="100%"
 />
+
+</div>
+
 
 ---
 
