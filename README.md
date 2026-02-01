@@ -48,22 +48,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala-alb&theme=github_dark)
 
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidBouallala-alb&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala-alb&theme=github_dark&utcOffset=1)
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala-alb&theme=github-dark"
-/>
-
 ---
 
 ## 📈 Contribution Activity
