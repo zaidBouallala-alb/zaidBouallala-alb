@@ -1,0 +1,22 @@
+{
+  "name": "cv-zaid-bouallala",
+  "version": "1.0.0",
+  "description": "CV professionnel pour ZAID BOUALLALA - Développeur Web Full Stack",
+  "main": "index.html",
+  "scripts": {
+    "generate-pdf": "node generate-pdf.js",
+    "serve": "npx http-server -p 8000 -o"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "portfolio",
+    "fullstack",
+    "developer"
+  ],
+  "author": "Zaid Bouallala",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
