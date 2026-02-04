@@ -46,7 +46,9 @@ Puis ouvrez http://localhost:8000 dans votre navigateur.
 
 ## 📄 Génération PDF
 
-### Méthode 1 : Depuis le Navigateur (Recommandé)
+### Méthode 1 : Depuis le Navigateur (⭐ Recommandé - Simple et Rapide)
+Cette méthode ne nécessite aucune installation et fonctionne immédiatement :
+
 1. Ouvrez `index.html` dans Chrome, Firefox, ou Edge
 2. Appuyez sur `Ctrl+P` (Windows/Linux) ou `Cmd+P` (Mac)
 3. Configurez les paramètres d'impression :
@@ -54,50 +56,25 @@ Puis ouvrez http://localhost:8000 dans votre navigateur.
    - **Mise en page** : Portrait
    - **Marges** : Par défaut ou Minimum
    - **Échelle** : 100%
-   - **Options** : Activez "Graphiques d'arrière-plan"
+   - **Options** : ✅ Activez "Graphiques d'arrière-plan" (Important!)
 4. Cliquez sur "Enregistrer" et choisissez le nom : `CV_ZAID_BOUALLALA.pdf`
 
-### Méthode 2 : Puppeteer (Automatisé)
-Pour une génération automatique via Node.js :
+💡 **Astuce** : Cette méthode produit un PDF de qualité professionnelle sans aucune installation requise!
+
+### Méthode 2 : Puppeteer (Automatisé - Optionnel)
+Pour une génération automatique via Node.js (nécessite une connexion internet pour l'installation) :
 
 ```bash
 npm install puppeteer
 ```
 
-Créez un fichier `generate-pdf.js` :
-```javascript
-const puppeteer = require('puppeteer');
-const path = require('path');
-
-(async () => {
-    const browser = await puppeteer.launch();
-    const page = await browser.newPage();
-    
-    await page.goto(`file://${path.join(__dirname, 'index.html')}`, {
-        waitUntil: 'networkidle0'
-    });
-    
-    await page.pdf({
-        path: 'CV_ZAID_BOUALLALA.pdf',
-        format: 'A4',
-        printBackground: true,
-        margin: {
-            top: '20mm',
-            right: '15mm',
-            bottom: '20mm',
-            left: '15mm'
-        }
-    });
-    
-    await browser.close();
-    console.log('PDF généré : CV_ZAID_BOUALLALA.pdf');
-})();
-```
-
-Exécutez :
+Puis exécutez :
 ```bash
-node generate-pdf.js
+npm run generate-pdf
+# ou directement: node generate-pdf.js
 ```
+
+Note : Si l'installation échoue, utilisez la Méthode 1 (navigateur) qui fonctionne toujours.
 
 ### Méthode 3 : wkhtmltopdf
 Installation et utilisation :
