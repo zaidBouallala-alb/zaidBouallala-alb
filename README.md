@@ -78,7 +78,7 @@
 ```js
 export const Zaid = {
   frontend: ["HTML", "CSS", "JavaScript", "React", "Redux"],
-  backend: ["Laravel", "PHP", "Python"],
+  backend: ["Laravel", "PHP", "Python","Express"],
   database: ["MySQL", "MongoDB"],
   tools: ["Git", "GitLab"],
   principles: ["Clean Code", "REST APIs", "Scalable Architecture"]
