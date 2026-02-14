@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="36%" />
 
-<h1>Hi 👋, I'm Zaid Bouallala</h1>
+<h1>Hi, I'm Zaid Bouallala</h1>
 <h3>Full Stack Web Developer</h3>
 
 <img src="https://komarev.com/ghpvc/?username=zaidbouallala&style=flat&color=6e7681&label=Profile+Views"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5"/>
@@ -42,7 +42,7 @@
 </p>
 
 ---
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <!-- Full profile overview -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala-alb&theme=github_dark)
@@ -57,7 +57,7 @@
 
 ---
 
-## 📈 Contribution & Productivity
+##  Contribution & Productivity
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-## 🧠 Competence (Structured)
+##  Competence (Structured)
 
 ```js
 export const Zaid = {
